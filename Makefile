@@ -4,7 +4,7 @@ SUBLEVEL = 61
 EXTRAVERSION = -TeamNexus
 NAME = TOSSUG Baby Fish
 
-TOOLCHAIN_DIR =/home/minealex2244/Desktop/SM-G920F/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+TOOLCHAIN_DIR =/home/minealex2244/Desktop/SM-G920F/gcc-linaro-4.9_aarch64-linux-gnu/bin/aarch64-linux-gnu-
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
