@@ -109,6 +109,22 @@ build_kernel/G925F/Image
 build_kernel/G925F/boot.img
 build_kernel/G925F/ramdisk.gz
 
+build_kernel/G920P/Image
+build_kernel/G920P/boot.img
+build_kernel/G920P/ramdisk.gz
+
+build_kernel/G925P/Image
+build_kernel/G925P/boot.img
+build_kernel/G925P/ramdisk.gz
+
+build_kernel/G920S/Image
+build_kernel/G920S/boot.img
+build_kernel/G920S/ramdisk.gz
+
+build_kernel/G925S/Image
+build_kernel/G925S/boot.img
+build_kernel/G925S/ramdisk.gz
+
 build_kernel/G920W8/Image
 build_kernel/G920W8/boot.img
 build_kernel/G920W8/ramdisk.gz
